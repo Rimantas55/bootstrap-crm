@@ -2,23 +2,23 @@
 
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark p-0">
   <div class="container">
-    <a href="index.php" class="navbar-brand">Bootstrap CRM</a>
+    <a href="../index.php" class="navbar-brand">Bootstrap CRM</a>
     <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav"><!-- ml-auto would pushed links to the right side of the bar  -->
         <li class="nav-item px-2">
-          <a href="index.php" class="nav-link active <?php //echo checkLink(); ?>">Dashboard</a>
+          <a href="../index.php" class="nav-link <?php //echo checkLink(); ?>">Dashboard</a>
         </li>
         <li class="nav-item px-2">
-          <a href="view/posts.php" class="nav-link <?php //echo checkLink(); ?>" >Posts</a>
+          <a href="posts.php" class="nav-link active <?php //echo checkLink(); ?>" >Posts</a>
         </li>
         <li class="nav-item px-2">
-          <a href="view/categories.php" class="nav-link <?php //echo checkLink(); ?>">Categories</a>
+          <a href="categories.php" class="nav-link active <?php //echo checkLink(); ?>">Categories</a>
         </li>
         <li class="nav-item px-2">
-          <a href="view/users.php" class="nav-link <?php //echo checkLink(); ?>">Users</a>
+          <a href="users.php" class="nav-link <?php //echo checkLink(); ?>">Users</a>
         </li>
       </ul>
 

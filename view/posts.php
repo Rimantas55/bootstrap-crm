@@ -1,4 +1,5 @@
 <!-- ADD USER MODAL -->
 <?php include 'head.php'; ?>
-<?php include 'nav.php'; ?>
-user
+<!-- ADD nav2 -->
+<?php include 'nav2.php'; ?>
+posts
