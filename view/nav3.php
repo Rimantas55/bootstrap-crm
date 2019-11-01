@@ -1,5 +1,3 @@
-
-
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark p-0">
   <div class="container">
     <a href="../index.php" class="navbar-brand">Bootstrap CRM</a>
@@ -12,7 +10,7 @@
           <a href="../index.php" class="nav-link <?php //echo checkLink(); ?>">Dashboard</a>
         </li>
         <li class="nav-item px-2">
-          <a href="posts.php" class="nav-link active <?php //echo checkLink(); ?>" >Posts</a>
+          <a href="posts.php" class="nav-link  <?php //echo checkLink(); ?>" >Posts</a>
         </li>
         <li class="nav-item px-2">
           <a href="categories.php" class="nav-link active <?php //echo checkLink(); ?>">Categories</a>
@@ -45,3 +43,7 @@
     </div><!-- end of collapse navbar-collapse -->
   </div><!-- end of container -->
 </nav>
+
+
+
+  

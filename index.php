@@ -57,29 +57,132 @@
   </div><!-- end of container -->
 </section>
 
-<!--  -->
+<!-- POSTS -->
+<section id="posts">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-9">
+        <div class="card">
+          <div class="card-header">
+            <h4>Latest Posts</h4>
+          </div>
+          <table class="table table-striped">
+            <thead class="thead-dark">
+              <tr>
+                <th>#</th>
+                <th>Title</th>
+                <th>Category</th>
+                <th>Date</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>Post One</td>
+                <td>Web Development</td>
+                <td>May 10 2019</td>
+                <td>
+                  <a href="details.php" class="btn btn-secondary">
+                    <i class="fas fa-angle-double-right"></i> Details
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>Post Two</td>
+                <td>Web Development</td>
+                <td>May 10 2019</td>
+                <td>
+                  <a href="details.php" class="btn btn-secondary">
+                    <i class="fas fa-angle-double-right"></i> Details
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Post Three</td>
+                <td>Web Development</td>
+                <td>May 10 2019</td>
+                <td>
+                  <a href="details.php" class="btn btn-secondary">
+                    <i class="fas fa-angle-double-right"></i> Details
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>Post Four</td>
+                <td>Web Development</td>
+                <td>May 10 2019</td>
+                <td>
+                  <a href="details.php" class="btn btn-secondary">
+                    <i class="fas fa-angle-double-right"></i> Details
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>Post Five</td>
+                <td>Web Development</td>
+                <td>May 10 2019</td>
+                <td>
+                  <a href="details.php" class="btn btn-secondary">
+                    <i class="fas fa-angle-double-right"></i> Details
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>Post Six</td>
+                <td>Web Development</td>
+                <td>May 10 2019</td>
+                <td>
+                  <a href="details.php" class="btn btn-secondary">
+                    <i class="fas fa-angle-double-right"></i> Details
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div><!-- end of card -->
+      </div><!-- end og col-md-9 -->
+      <div class="col-md-3">
+        <div class="card text-center bg-primary text-white mb-3">
+          <div class="card-body">
+            <h3>Posts</h3>
+            <h4 class="display-4">
+              <i class="fas fa-pencil-alt"></i> 6
+            </h4>
+            <a href="view/posts.php" class="btn btn-outline-light btn-sm">View</a>
+          </div>
+        </div><!-- end of card -->
+        <div class="card text-center bg-success text-white mb-3">
+          <div class="card-body">
+            <h3>Categories</h3>
+            <h4 class="display-4">
+              <i class="fas fa-folder"></i> 4
+            </h4>
+            <a href="view/categories.php" class="btn btn-outline-light btn-sm">Categories</a>
+          </div>
+        </div><!-- end of card -->
+        <div class="card text-center bg-warning text-white mb-3">
+          <div class="card-body">
+            <h3>Users</h3>
+            <h4 class="display-4">
+              <i class="fas fa-users"></i> 4
+            </h4>
+            <a href="view/users.php" class="btn btn-outline-light btn-sm">Users</a>
+          </div>
+        </div><!-- end of card -->
+      </div><!-- end og col-md-3 -->
+    </div><!-- end of row -->
+  </div><!-- end of container -->
+</section>
 
 
 
 
 
-
-  <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-  crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
-  crossorigin="anonymous"></script>
-<!-- CKEditor https://cdn.ckeditor.com/ -->
-  <script src="https://cdn.ckeditor.com/4.13.0/standard/ckeditor.js"></script>
-
-
-  <script>
-
-    // Init CKeditor
-    CKEDITOR.replace( 'editor1' );//editor1 is the name in the textarea (it is like id)
-
-  </script>
-</body>
-
-</html>
+<!-- FOOTER -->
+<?php  include 'view/footer.php'; ?>

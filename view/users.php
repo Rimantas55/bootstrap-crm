@@ -3,3 +3,13 @@
 <!-- ADD nav2 -->
 <?php include 'nav4.php'; ?>
 users
+
+
+
+
+
+
+
+
+<!-- FOOTER -->
+<?php  include 'footer.php'; ?>

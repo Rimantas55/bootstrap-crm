@@ -3,3 +3,16 @@
 <!-- ADD nav3 -->
 <?php include 'nav3.php'; ?>
 category
+
+
+
+
+
+
+
+
+
+
+
+<!-- FOOTER -->
+<?php  include 'footer.php'; ?>
