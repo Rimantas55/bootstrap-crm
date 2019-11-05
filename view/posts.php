@@ -10,7 +10,7 @@
 		<div class="row">
 			<div class="col-md-6">
 				<h1>
-					<i class="fas fa-cog"></i> Posts
+					<i class="fas fa-pencil-alt"></i> Posts
 				</h1>
 			</div><!-- end of col-md-6 -->
 		</div><!-- end of row -->
