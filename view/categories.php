@@ -57,7 +57,7 @@
 								<td>Web Development</td>
 								<td>May 10 2019</td>
 								<td>
-									<a href="details.php" class="btn btn-secondary">
+									<a href="../index.php" class="btn btn-secondary">
 										<i class="fas fa-angle-double-right"></i> Details
 									</a>
 								</td>
@@ -67,7 +67,7 @@
 								<td>Tech Gadgets</td>
 								<td>May 10 2019</td>
 								<td>
-									<a href="details.php" class="btn btn-secondary">
+									<a href="../index.php" class="btn btn-secondary">
 										<i class="fas fa-angle-double-right"></i> Details
 									</a>
 								</td>
@@ -77,7 +77,7 @@
 								<td>Business</td>
 								<td>May 10 2019</td>
 								<td>
-									<a href="details.php" class="btn btn-secondary">
+									<a href="../index.php" class="btn btn-secondary">
 										<i class="fas fa-angle-double-right"></i> Details
 									</a>
 								</td>
@@ -87,7 +87,7 @@
 								<td>Health & Wellness</td>
 								<td>May 10 2019</td>
 								<td>
-									<a href="details.php" class="btn btn-secondary">
+									<a href="../index.php" class="btn btn-secondary">
 										<i class="fas fa-angle-double-right"></i> Details
 									</a>
 								</td>
