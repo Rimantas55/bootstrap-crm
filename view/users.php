@@ -92,23 +92,6 @@
 
 
 
-
-
-
-
-
-
-
-
 <!-- FOOTER -->
 <?php  include 'footer.php'; ?>
 
-
-
-
-
-
-
-
-<!-- FOOTER -->
-<?php  include 'footer.php'; ?>
