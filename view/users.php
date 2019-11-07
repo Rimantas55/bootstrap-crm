@@ -57,7 +57,7 @@
 								<td>John Doe</td>
 								<td>Mjdoe@gmail.com</td>
 								<td>
-									<a href="view/details.php" class="btn btn-secondary">
+									<a href="details.php" class="btn btn-secondary">
 										<i class="fas fa-angle-double-right"></i> Details
 									</a>
 								</td>
@@ -67,7 +67,7 @@
 								<td>Harry White</td>
 								<td>harry@yahoo.com</td>
 								<td>
-									<a href="view/details.php" class="btn btn-secondary">
+									<a href="details.php" class="btn btn-secondary">
 										<i class="fas fa-angle-double-right"></i> Details
 									</a>
 								</td>
@@ -77,7 +77,7 @@
 								<td>Mary Johnson</td>
 								<td>mary@gmail.com</td>
 								<td>
-									<a href="view/details.php" class="btn btn-secondary">
+									<a href="details.php" class="btn btn-secondary">
 										<i class="fas fa-angle-double-right"></i> Details
 									</a>
 								</td>
